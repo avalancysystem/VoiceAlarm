@@ -2,17 +2,17 @@
   {
     "id": 0,
     "name": "milk",
-    "rank": 0
+    "rank": 3
   },
    {
     "id": 1,
     "name": "fade",
-    "rank": 0
+    "rank": 3
   },
   {
     "id": 2,
     "name": "jambalaya",
-    "rank": 1
+    "rank": 2
   },
   {
     "id": 3,
@@ -22,12 +22,12 @@
   {
     "id": 4,
     "name": "popgoes",
-    "rank": 0
+    "rank": 3
   },
   {
     "id": 5,
     "name": "melody",
-    "rank": 0
+    "rank": 3
   },
   {
     "id": 6,
@@ -77,21 +77,21 @@
   {
     "id": 15,
     "name": "pepas",
-    "rank": 0
+    "rank": 3
   },
   {
     "id": 16,
     "name": "hours",
-    "rank": 0
+    "rank": 3
   },
   {
     "id": 17,
     "name": "oh",
-    "rank": 1
+    "rank": 3
   },
    {
     "id": 18,
     "name": "toujours",
-    "rank": 0
+    "rank": 3
   }
 ]
