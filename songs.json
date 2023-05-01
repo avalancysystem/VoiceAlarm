@@ -128,5 +128,10 @@
     "id": 25,
     "name": "fantasy",
     "rank": 5
+  },
+  {
+    "id": 26,
+    "name": "walk",
+    "rank": 5
   }
 ]
